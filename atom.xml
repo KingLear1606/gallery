@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Create Gallery Demo</title>
+  
+  <subtitle>Take Photo Think Seriously</subtitle>
+  <link href="https://kinglear1606.github.io/Gallery/atom.xml" rel="self"/>
+  
+  <link href="https://kinglear1606.github.io/Gallery/"/>
+  <updated>2025-11-14T06:31:49.218Z</updated>
+  <id>https://kinglear1606.github.io/Gallery/</id>
+  
+  <author>
+    <name>Breeze</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>照片集</title>
+    <link href="https://kinglear1606.github.io/Gallery/2025/undefined/"/>
+    <id>https://kinglear1606.github.io/Gallery/2025/undefined/</id>
+    <published>2025-11-14T06:31:49.218Z</published>
+    <updated>2025-11-14T06:31:49.218Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
