@@ -436,7 +436,7 @@
       if (v.hasOwnProperty('location') && v.location.length !== 0) {
         // add marker
         var marker = L.marker(v.location).addTo(map);
-        marker.bindPopup(`<a href="https://breeze.github.io/Gallery/${v.dir}?name=${v.name}">LINK</a>` + `<img class="gmarker nofancy" src=${cover} style="margin-top:4px;" />`);
+        marker.bindPopup(`<a href="https://kinglear1606.github.io/Gallery/${v.dir}?name=${v.name}">LINK</a>` + `<img class="gmarker nofancy" src=${cover} style="margin-top:4px;" />`);
       }
     }
     // album data
@@ -467,7 +467,7 @@
         });
         // add marker
         var marker = L.marker(v.location, {icon: icon}).addTo(map);
-        marker.bindPopup(`<a href="https://breeze.github.io/Gallery/${v.url}">${key}</a>` + `<img class="gmarker nofancy" src=${cover} style="margin-top:4px;" />`);
+        marker.bindPopup(`<a href="https://kinglear1606.github.io/Gallery/${v.url}">${key}</a>` + `<img class="gmarker nofancy" src=${cover} style="margin-top:4px;" />`);
         if (firstMark === null) {
           firstMark = marker;
         }
