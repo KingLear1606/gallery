@@ -115,9 +115,58 @@
   style: default
   cover: BeiJing_taimiao/DSC_2618.3ryuyh8c1p40.webp
 
+北京 · 前门大街:
+  url: BeiJing_qianmendajie
+  date: "2024-09-25"
+  style: default
+  cover: BeiJing_qianmendajie/DSC_2697-已增强-降噪.36dolvt0dz20.webp
 
+北京 · 法源寺:
+  url: BeiJing_fayuansi
+  date: "2024-09-26"
+  style: default
+  cover: BeiJing_fayuansi/DSC_2704.47fkpqnkr8e0.webp
 
+北京 · 天坛:
+  url: BeiJing_tiantan
+  date: "2024-09-26"
+  style: default
+  cover: BeiJing_tiantan/DSC_2780.6kg17jfmy740.webp
 
+北京 · 明十三陵:
+  url: BeiJing_mingshisanling
+  date: "2024-09-28"
+  style: default
+  cover: BeiJing_mingshisanling/DSC_2925.2348do791pwg.webp
 
+北京 · 故宫:
+  url: BeiJing_gugong
+  date: "2024-09-29"
+  style: default
+  cover: BeiJing_gugong/DSC_2973.1ejtuhu8z868.webp
+
+北京 · 景山:
+  url: BeiJing_jingshan
+  date: "2024-09-29"
+  style: default
+  cover: BeiJing_jingshan/DSC_3207-已增强-降噪.31gn89u498i0.webp
+
+北京 · 北海公园:
+  url: BeiJing_beihaigongyuan
+  date: "2024-09-29"
+  style: default
+  cover: BeiJing_beihaigongyuan/DSC_3246-已增强-降噪.1l8h3qub8134.webp
+
+北京 · 圆明园:
+  url: BeiJing_yuanmingyuan
+  date: "2024-9-30"
+  style: default
+  cover: BeiJing_yuanmingyuan/DSC_3347.1816teyxt5z4.webp
+
+北京 · 慈寿寺塔:
+  url: BeiJing_cishousita
+  date: "2024-09-30"
+  style: default
+  cover: BeiJing_cishousita/DSC_3423.75i7fj3nblk0.webp
 
 
