@@ -10,9 +10,9 @@ on:
 env:
   GIT_USER: KingLear1606 # change to yourself
   GIT_EMAIL: 2217047095@qq.com # change to yourself
-  THEME_REPO: lfkdsk/hexo-theme-type
+  THEME_REPO: KingLear1606/hexo-theme-type
   THEME_BRANCH: main
-  TEMPLATE_REPO: lfkdsk/album_template
+  TEMPLATE_REPO: KingLear1606/album_template
   TEMPLATE_BRANCH: main
   THUMBNAIL_BRANCH: thumbnail
 
