@@ -2,7 +2,7 @@ title: Create Gallery Demo
 subtitle: Take Photo Think Seriously
 description: Create Gallery Demo 拿起相机，认真思考
 cover: 'https://github.com/lfkdsk/picx-images-hosting/raw/master/20230817/IMG_7586.4e91my1ve140.17iz0sa56gik.webp'
-author: lfkdsk
+author: Breeze
 
 footer_logo: 
   use: self
@@ -10,8 +10,8 @@ footer_logo:
     link: 'https://lfkdsk.github.io/'
     src: 'https://github.com/lfkdsk/picx-images-hosting/raw/master/20230817/tripper2white.2pbuwaqvndu0.webp'
 
-url: https://lfkdsk.github.io/create-gallery
-root: /create-gallery
+url: https://KingLear1606.github.io/Gallery
+root: /Gallery
 
 photography_page:
   slogan: true
@@ -25,8 +25,8 @@ google_analytics:
 
 nav:
   归档: 
-    link: https://lfkdsk.github.io
+    link: https://KingLear1606.github.io
     icon: inbox
 
-thumbnail_url: https://cdn.jsdelivr.net/gh/lfkdsk/create-gallery@thumbnail/
-base_url: https://cdn.jsdelivr.net/gh/lfkdsk/create-gallery@master
+thumbnail_url: https://cdn.jsdelivr.net/gh/KingLear1606/Gallery@thumbnail/
+base_url: https://cdn.jsdelivr.net/gh/KingLear1606/Gallery@master
